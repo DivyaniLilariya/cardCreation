@@ -1,2 +1,2 @@
 # cardCreation
-in this project i have uses  throttling 
+in this project i have used  throttling 
